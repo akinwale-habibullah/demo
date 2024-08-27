@@ -6,5 +6,6 @@
 
 - add files to git to track
 - commit your changes
+- demo content
 
 ## Push changes to Github
